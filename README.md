@@ -1,0 +1,2 @@
+# WUBBAO_PCL
+这个项目是一个面向Minecraft新手的PCL整合包安装工具，通过单EXE文件提供友好GUI，支持一键安装整合包、自动检测启动器、强制关闭PCL进程和文件完整性验证，使用Python+Tkinter开发，PyInstaller打包，支持GitHub Actions自动构建，用户只需选择启动器目录即可完成安装并启动PCL。
