@@ -34,6 +34,34 @@
 ## 🚀 使用教程
 
 (在PCL中导出整合包，由于该部分过于简单所以一笔带过）
+
+1.打开 `PCL` 或 `PCL CE（社区版）` ，点击 `版本选择` 
+<img width="1816" height="1061" alt="1" src="https://github.com/user-attachments/assets/be88601f-c89f-4110-adc4-4f7f922df37e" />（图示1.png)
+
+2.在下一个页面中选择你想要导出的 `带MOD整合包`
+<img width="1816" height="1060" alt="2" src="https://github.com/user-attachments/assets/a6e57212-000f-4d68-9b80-b0bb2ce2df5e" />（图2.png)
+
+3.在下一个页面中点击导出按钮
+<img width="1816" height="1062" alt="3" src="https://github.com/user-attachments/assets/0e6e7e9a-80e5-43ef-aa18-bb73f8537757" />（图示3.png)
+
+4.在一个页面中选择你想导出的内容，按照需求更改
+<img width="1816" height="1060" alt="4" src="https://github.com/user-attachments/assets/fa1aa558-ae68-416d-b2c3-0c843c3d1dd0" />（图示4.png)
+
+4.1 在这个页面的 `高级选项` 中 `打包资源文件,以避免在导入时下载` 按钮请考虑实际情况打开或关闭
+
+保存整合包MOD(离线模式)请勾选此选项
+但是文件也会非常大(取决于你的整合包MOD大小和数量)
+**部分整合包可能因为打开此开关而从不到1MB飞升到几个G**
+<img width="1396" height="465" alt="4 1高级选项" src="https://github.com/user-attachments/assets/eba81480-f95e-40ff-8708-36256aa66d55" />（图示4.1高级选项.png)
+
+5.更改完成后点击 `开始导出`（在本页面最下面）
+不会的话可以款看 `整合包制作指南 `(下面的按钮)
+<img width="1844" height="1310" alt="5" src="https://github.com/user-attachments/assets/96635804-16c2-4fb8-bbe3-7d7ae559ccf9" />（图示5.png)
+
+6.最后一步选择整合包导出的路径（你能看懂就行）
+<img width="1418" height="949" alt="6" src="https://github.com/user-attachments/assets/1f6370ed-b2fa-45d4-972d-f079a4474f59" />（图示6.png)
+
+---
 ### 第1步：选择整合包文件
 
 1. 点击 `浏览...` 按钮
